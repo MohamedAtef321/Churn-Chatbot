@@ -3,8 +3,6 @@ Chatbot that uses classifier model to predict will a customer churn or not based
 
 **Usage:**
 
-**install**
-`pip install -r requirements.txt`
+**install:** `pip install -r requirements.txt`
 
-**run**
-`streamlit run app.py`
+**run:** `streamlit run app.py`
